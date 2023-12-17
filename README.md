@@ -1,3 +1,5 @@
+### Hi there, I'm `Amir Akbari` 👋
+
 # About Me:
 <P>
 As an accounting and finance expert, I have a strong interest in this field and a great interest in learning and research.  Currently, I am studying accounting at Shamsipur University and I have an MBA degree from Islamic Azad University.  I am also an F level student in Accounting and Finance from the Association of Chartered Accountants (ACCA) UK.
@@ -10,15 +12,26 @@ I have a diverse and dynamic work experience that ranges from accounting, ERP an
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
       width="35"
-      height="35"
-      <a href="mailto:Amirakbarisxl@gmail.com" target="_blank">
-       <img
+      height="35"/>
+</a>&nbsp;&nbsp;
+
+<a href="mailto:Amirakbarisxl@gmail.com" target="_blank">
+ <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"
       alt="gmail"
       width="40"
       height="40"
 />
+</a>&nbsp;&nbsp;
 
+<a href="https://github.com/AmirakbariSXL" target="_blank">
+ <img
+      src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
+      alt="github"
+      width="40"
+      height="40"
+/>
+</a>&nbsp;&nbsp;
           
 ## Back-end (intern) Developer:
 I use Django (5.0) / Python (3) / HTML (5) / CSS (3)  in my Stack.
