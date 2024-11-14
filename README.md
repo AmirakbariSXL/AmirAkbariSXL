@@ -49,14 +49,14 @@ based on financial software.
 ---
 ## 📃 CERTIFICATIONS
 
-### Odoo Functional sample - 2024 /
-### Odoo Company
-### Crash Course On Python - 2023 /
-### Coursera
-### Accounting Fundamental - 2023 /
-### CFI
-### CS50X & CS50P - 2023 /
-### HARVARD
+### Odoo Functional sample - 2024 / Odoo Company
+
+### Crash Course On Python - 2023 / Coursera
+ 
+### Accounting Fundamental - 2023 / CFI
+
+### CS50X & CS50P - 2023 / HARVARD
+
 
 
 
