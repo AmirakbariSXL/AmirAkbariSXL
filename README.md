@@ -17,7 +17,7 @@ company's forces and developing the modules
 required by the company.
 
 
-### [Saam ERP] – [SAAM WEBWARE]
+### [Saam ERP Specialist] – [SAAM WEBWARE]
 * [JAN 2023] – [SEP 2024]
   - Development of financial software, ERP, MIS |
 SAAM Company operates in line with the
@@ -47,7 +47,16 @@ based on financial software.
 
  
 ---
+## 📃 CERTIFICATIONS
 
+### Odoo Functional sample - 2024 /
+### Odoo Company
+### Crash Course On Python - 2023 /
+### Coursera
+### Accounting Fundamental - 2023 /
+### CFI
+### CS50X & CS50P - 2023 /
+### HARVARD
 
 
 
