@@ -40,8 +40,7 @@ based on financial software.
 
 ## 🎓 Education
 
-### [BACHELOR OF ACCOUNTING] – [Shamsipour Technical and
-### Vocational College]
+### [BACHELOR OF ACCOUNTING] – [Shamsipour Technical and Vocational College]
 
 * [2023] – [2025]
 
