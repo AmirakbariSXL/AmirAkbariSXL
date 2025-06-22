@@ -20,7 +20,7 @@
   
 ### [Odoo ERP Specialist] – [Vatan Zarin Group]
 * [FEB 2025] – ["Present"]
- - At VatanZarin Holding, we are engaged in the Implementation
+   - At VatanZarin Holding, we are engaged in the Implementation
  and development of odooERP in the following companies:
  Healty, Cosmetics, Informatics and Stores.
  Modules being deployed:
