@@ -1,13 +1,34 @@
 # Hi, I'm [Amir Akbari] 👋
 
-A Odoo developer with experience in [Backend developer, module implementation]. Passionate about [odooERP system]. Currently working on [odoo 17 developing in Sun Group], always eager to learn and improve my skills.
+ I am working as an Odoo deployment expert, focusing
+ on its development in the accounting, commerce,
+ purchasing, and sales modules. I strive to ensure the
+ best deployment by observing internal controls and
+ meeting the needs of various industries. My field of
+ study has been accounting, as reflected in my diploma,
+ post-graduate, and undergraduate degrees. With my
+ background in programming, I transitioned into the
+ ERP field to combine my expertise in accounting,
+ programming, and ERP to deliver optimal solutions
 
 ---
 
 ## 💼 Work Experience
 
+### OCA(Odoo Community Association) Contributer
+* [JAN 2025] – ["Present"]
+* 
+### [Odoo ERP Specialist] – [Vatan Zarin Group]
+* [FEB 2025] – ["Present"]
+At VatanZarin Holding, we are engaged in the Implementation
+ and development of odooERP in the following companies:
+ Healty, Cosmetics, Informatics and Stores.
+ Modules being deployed:
+ Accounting - Purchases - Projects
+ Sales - Inventory - Wharehouse
+
 ### [Odoo ERP Specialist] – [Sun Group]
-* [SEP 2024] – ["Present"]
+* [SEP 2024] – ["JAN 2025"]
   - Implementation ODOO ERP in Accounting and
 E-commerce field.In addition to establishing the
 control of financial and commercial processes and
@@ -16,8 +37,7 @@ responsible for supporting and training the
 company's forces and developing the modules
 required by the company.
 
-
-### [Saam ERP Specialist] – [SAAM WEBWARE]
+### [Saam ERP Specialist]  [SAAM WEBWARE]
 * [JAN 2023] – [SEP 2024]
   - Development of financial software, ERP, MIS |
 SAAM Company operates in line with the
@@ -32,7 +52,7 @@ based on financial software.
 ## 📚 Skills
 
 - **Programming Languages**: [Python]
-- **Frameworks and Libraries**: [Django, Odoo]
+- **Frameworks and Libraries**: [Odoo]
 - **Databases**: [MySQL, PostgreSQL]
 - **Tools and Technologies**: [Anaconda, Git]
 
