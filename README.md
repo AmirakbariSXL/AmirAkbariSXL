@@ -17,7 +17,7 @@
 
 ### OCA(Odoo Community Association) Contributer
 * [JAN 2025] – ["Present"]
-* 
+  
 ### [Odoo ERP Specialist] – [Vatan Zarin Group]
 * [FEB 2025] – ["Present"]
 At VatanZarin Holding, we are engaged in the Implementation
